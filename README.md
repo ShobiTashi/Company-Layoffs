@@ -4,14 +4,17 @@ This is an SQL project that analyzes companies around the world that laid off st
 # Tools
 MySQL
 # Summary
-This project involved: 
+This project involved 
+
 *Data cleaning
+
 *The use of:
 - CTEs
 - Window functions
 - Data aggregation
 - Mathematical operations
 - Simple queries
+  
 *Analyzing:
 - Companies, Industries, and Countries affected by certain layoff numbers and percentages
 - The relationship between funding stages and layoffs
