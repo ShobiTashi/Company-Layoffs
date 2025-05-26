@@ -4,7 +4,7 @@ This is an SQL project that analyzes companies around the world that laid off st
 # Tools
 MySQL
 # Summary
-This project involved 
+This project involved: 
 
 *Data cleaning
 
